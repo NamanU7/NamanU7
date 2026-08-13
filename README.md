@@ -7,6 +7,7 @@
 
 <p align="center">
   <a href="https://namanu7.github.io"><img src="https://img.shields.io/badge/Portfolio-namanu7.github.io-B4530A?style=flat-square&logo=githubpages&logoColor=white" alt="Portfolio"></a>
+  <a href="https://namanu7.github.io/Naman_Uttamchandani_Resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-1B211E?style=flat-square&logo=readdotcv&logoColor=white" alt="Resume"></a>
   <a href="https://linkedin.com/in/naman-uttamchandani7"><img src="https://img.shields.io/badge/LinkedIn-naman--uttamchandani7-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:naman.uttam7@gmail.com"><img src="https://img.shields.io/badge/Email-naman.uttam7%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
@@ -15,12 +16,18 @@
 
 ### About me
 
-- 🎓 Computer Science at the **University of British Columbia** — Dean's List, graduating May 2027
+- 🎓 Computer Science at the **University of British Columbia** — Dean's List, graduating May 2027; coursework in distributed systems, operating systems, databases, and machine learning
 - 🛠️ At **Amazon**, I designed and launched a distributed traffic-shaping service (API Gateway + Lambda + AIMD throttling) that cut dead-letter-queue traffic by **70%**, and owned internal-account invoicing across **17 ECS/Fargate tasks** orchestrated with Step Functions
 - 🤖 At **UBC Snowbots**, I redesigned the network for an autonomous ROS 2 rover — **4× throughput** (22 → 87 Mbps) and **4× lower command latency** (40 → 10 ms)
 - 🧪 I like building things from first principles: a [CHIP-8 virtual machine in Rust](https://github.com/NamanU7/iron-chip) that runs both on desktop (SDL2) and in the browser (WebAssembly + WebGL)
 - 📚 Former **Teaching Assistant** for Software Construction at UBC — weekly Java labs for 40+ students
 - 🌱 Currently exploring AI agent orchestration and human-motion sensing
+
+### Beyond the code
+
+- 🏝️ Born and raised on **Curaçao**, a small island in the southern Caribbean — now based in Vancouver
+- 🏊 Swimming is non-negotiable when you grow up on an island; these days it shares time with cycling, the gym, and learning guitar
+- 🦀 Will happily explain why the emulator had to be written in Rust
 
 ### Tech I work with
 
@@ -59,10 +66,9 @@
 
 | Project | What it is | Built with |
 |---|---|---|
-| [**iron-chip**](https://github.com/NamanU7/iron-chip) | A CHIP-8 virtual machine and interpreter — full instruction set, explicit memory/register/timer control. Runs natively via SDL2 and in the browser via WebAssembly + WebGL from the same Rust core. | Rust, WASM, WebGL, SDL2 |
+| [**iron-chip**](https://github.com/NamanU7/iron-chip) | A CHIP-8 virtual machine and interpreter — full instruction set, explicit memory/register/timer control. Runs natively via SDL2 and in the browser via WebAssembly + WebGL from the same Rust core. **[Run it in your browser →](https://namanu7.github.io/iron-chip/)** | Rust, WASM, WebGL, SDL2 |
 | [**impostor**](https://github.com/NamanU7/impostor) | A real-time Turing-test game: watch a live chat between a human and an NLP model, then decide who's the impostor. | Node.js, Socket.IO, SQLite, JWT |
-| [**dsa-visualization**](https://github.com/NamanU7/dsa-visualization) | Interactive visualizations of data structures and algorithms. | JavaScript, HTML/CSS |
-| [**raw-nodejs-api**](https://github.com/NamanU7/raw-nodejs-api) | A RESTful API written in Node.js with no frameworks — HTTP from first principles. | Node.js |
+| [**dsa-visualization**](https://github.com/NamanU7/dsa-visualization) | Interactive visualizations of data structures — watch the invariants move. **[Live demo →](https://namanu7.github.io/dsa-visualization/)** | JavaScript, HTML/CSS |
 
 ### GitHub stats
 
